@@ -2,7 +2,7 @@
 
 This is monkeyrunnver bat file.
 
-Original file (install by Android Stuido) does not work because file path was wrong.
+Original file (installed by Android Stuido) does not work because file path was wrong.
 
 So, I update bat file to work.
 
